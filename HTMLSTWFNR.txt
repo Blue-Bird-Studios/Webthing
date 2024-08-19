@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang=“en-US”>
+<head>
+<style>
+.green {
+    color: lime;
+    border: 10px solid black;
+}
+.blue {
+    color: blue;
+    border: 10px solid black
+}
+</style>
+</head>
+<body>
+<div class=“green”> Ima green</div>
+<div class=“blue”> But Ima blue</div>
+<div class=“green”> well shut up</div>
+<div class=“blue”> well you shut up</div>
+</body>
+</html>
